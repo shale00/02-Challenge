@@ -21,7 +21,7 @@ The following image shows the web application's appearance and functionality:
 The starter code was obtained from the following link: https://github.com/coding-boot-camp/urban-octo-telegram.
 
 
-This is the deployed application link: https://shale00.github.io/02-Challenge/Develop/index.html. 
+Link to the deployed refactored code: https://shale00.github.io/Horiseon-code-refactor/Develop/index.html. 
 
 ## License
 
