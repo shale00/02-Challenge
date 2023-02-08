@@ -1,8 +1,8 @@
-# 02 Challenge - Code Refactor Starter Code
+# Horiseon Code Refactor
 
 ## Description
 
-This webpage code was refactored to meet accessibilty standards and comments were added to the css stylesheet to improve the the codebase for long-term sustainability.
+This webpage html code was refactored to meet accessibilty standards. The CSS stylesheet was also consolidated to improve the the codebase for long-term sustainability and comments were added to help the reader better navigate the code. 
 
 
 ## Installation
